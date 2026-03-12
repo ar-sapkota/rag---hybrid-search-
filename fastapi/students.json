@@ -1,0 +1,5 @@
+{"S001": {"name": "Swarnim Wagle", "city": "Tanahun", "age": 45, "gender": "male",  "verdict": "Pass"},
+ "S002": {"name": "Sher Bahadur", "city": "Budhanilkantha", "age": 71, "gender": "male",  "verdict": "Disqualified"},
+  "S003": {"name": "KP Oli", "city": "Jhapa", "age": 80, "gender": "male",  "verdict": "Fail"},
+   "S004": {"name": "Balen Shah", "city": "Jhapa", "age": 35, "gender": "male",  "verdict": "Pass"},
+    "S005": {"name": "Gagan Thapa", "city": "Sarlahi", "age": 45, "gender": "male",  "verdict": "Fail"}}
